@@ -1,0 +1,7 @@
+tests_output/*
+
+!tests_output/.gitkeep
+
+bin/*
+
+!bin/.gitkeep
